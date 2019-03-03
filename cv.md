@@ -1,15 +1,15 @@
 # Сurriculum Vitae
 
 ![developer](/img/developer.jpg)
-Format: ![Developer Dzmitry Zakhar]()
+Format: ![Developer Dzmitry Zakhar](/img/developer.jpggit )
 
-1. ##Name:
+1. ## Name:
   - firstName: Dzmitry
   - secondName: Zakhar
 2. ##Contacts:
   - Skype: Zakhar Dima
   - Phone number: +375297093867
-3. ##Summary: 
+3. ## Summary: 
     Мне нравится учиться и я люблю JavaScript. Считаю этот язык довольно гибким, на нем можно писать
   как браузерные приложения, так и на стороне сервера (используется в Node). У него довольно большой 
   потенциал и большие возможности. На этом языке написано огромное количество различных программ, 
@@ -18,7 +18,7 @@ Format: ![Developer Dzmitry Zakhar]()
     Почему я выбрал эти курсы, так это возможность развиваться, получать новые знания и стать хорошим
   специалистом в сфере front-end разработки. Еще в школьные годы я увлекался программированием на 
   языке Basic, разрабатывал различные игры вроде "змейки" на тетрисе, анимации и т.д.
-4. ##Skills:
+4. ## Skills:
   - JavaScript;
   - Bootstrap;
   - JQuery;
@@ -27,7 +27,7 @@ Format: ![Developer Dzmitry Zakhar]()
   - GitBash;
   - Photoshop;
   - Visual Studio Code;
-5. ##Samples of my works:
+5. ## Samples of my works:
   - [culture portal](https://amoebiusss.github.io/rss-group31/)
   - [mentor-dashboard](https://spiritforest.github.io/gh-pages/)
   - [game](https://spiritforest.github.io/final.github.io/#start)
