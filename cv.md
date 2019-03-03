@@ -1,12 +1,11 @@
 # Сurriculum Vitae
 
 ![developer](/img/developer.jpg)
-Format: ![Developer Dzmitry Zakhar](/img/developer.jpggit )
 
 1. ## Name:
   - firstName: Dzmitry
   - secondName: Zakhar
-2. ##Contacts:
+2. ## Contacts:
   - Skype: Zakhar Dima
   - Phone number: +375297093867
 3. ## Summary: 
@@ -39,6 +38,6 @@ Format: ![Developer Dzmitry Zakhar](/img/developer.jpggit )
   - БНТУ по специальности "Организаци доророжного движения и управление не городском и пассажирском транспорте", специальность **инженер-менеджер**;
   - курсы RSS School;
 8. English level:
-  - reading level - intermediate (maybe upper-intermediate);
-  - speaking level - pre-intermediate;
+  - reading level - **intermediate** (*maybe upper-intermediate*);
+  - speaking level - **pre-intermediate**;
   - I have learging in LinguaLeo for 1.5 year;
