@@ -31,13 +31,13 @@
   - [mentor-dashboard](https://spiritforest.github.io/gh-pages/)
   - [game](https://spiritforest.github.io/final.github.io/#start)
   - [all my repositories](https://github.com/SpiritForest?tab=repositories)
-6. ##Experience:
+6. ## Experience:
   Мой опыт состоит в основном из обучения на курсах rss school, и выполнении заданий;
 7. ## Education:
   - техникум ПГАК по специализаци "Техническое обеспечение процессов с\х производства", специальность **техник-механик**;
   - БНТУ по специальности "Организаци доророжного движения и управление не городском и пассажирском транспорте", специальность **инженер-менеджер**;
   - курсы RSS School;
-8. English level:
+8. ## English level:
   - reading level - **intermediate** (*maybe upper-intermediate*);
   - speaking level - **pre-intermediate**;
   - I have learging in LinguaLeo for 1.5 year;
