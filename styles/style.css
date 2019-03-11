@@ -27,6 +27,7 @@ p, a, li, figcaption {
     height: 50px;
     background-color: black;
     color: white;
+    margin-bottom: 45px;
 }
 
 .content {
